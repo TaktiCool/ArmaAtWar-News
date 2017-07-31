@@ -37,8 +37,6 @@ The event will be hosted by our development team and we think about providing co
 
 [logo]: https://lh3.googleusercontent.com/8_8eysTj6WmoHYv3UjQDB18aCFUo6FI3-m-c8JifcBDm3ZeGAvcH33t3uUy0w88cXnbQW-67inXPkwCsckwwFGrPcV6p7MCzfhTu-kh-eCW0mZW28gaLAp1M1s8LBDhoEeK43R-62QPQlNUYbNG_lVytOkyFwOrFFZ03pL1xfABDUwsO0FKp3ar32VXLZ2W5MYVBB1P_xvSsIjIEfIPru7A-NCWGwrM43Eq7CKeK0s9j-LrP7WRWMufyLOUrvS-EnqKLKE-7DWgTk0qQvL_Xx6hRcmWq0QohGPL5fIqdmtuTsDFANjeIvt17Ue84qIU7af4ozhjS9OBjDA6gTKjv4aFUBkxmZBPJlB8llL1g9xzd7XQpliBYrhVFe0je1792GtjpOL7NqJkPfRBBsAfIGDGkooW3CPGf95NShwBEIbQ5aXG7mqqetLgbOu4B7DXZyUtveycPMJp4uWmZJnciq98Q7b9DTRooClnh5GHhDrnCZ2ZSMnypRhCGM6udxNPp6N3Nu6M2QOFm2XZjqZhCFCGNymLnt9GaB5tzUH6DEwHLDd7Bwwdg_8wtKTZteieZk7w3z-2p=w1680-h920
 
-[screen1]:
-https://media.discordapp.net/attachments/173543077821022208/340545518394540032/Profile_Page_Dashboard.png?width=1017&height=573
+[screen1]: https://media.discordapp.net/attachments/173543077821022208/340545518394540032/Profile_Page_Dashboard.png?width=1017&height=573
 
-[screen2]:
-https://media.discordapp.net/attachments/173543077821022208/340545519568945152/Profile_Page_Stats.png?width=1017&height=573
+[screen2]: https://media.discordapp.net/attachments/173543077821022208/340545519568945152/Profile_Page_Stats.png?width=1017&height=573
