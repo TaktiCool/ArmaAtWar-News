@@ -31,15 +31,12 @@ The event will be hosted by our development team and we think about providing co
 
 ## Forum
 
-Furthermore we are going to shutdown the forum. We have the feeling that at moment there is no need for it and community members tend to use discord instead. Once there is a true need for a forum in terms of structuring community input, we will reactivate it :)
+Furthermore, we have decided to shut down our forums. We had the feeling that at the moment, there is no use for that because most of the community member tend to contact us over our [discord server](http://discord.me/atwar-mod). Once there is a need for a forum in terms of structuring community input, we will reactivate it.
 
 **Hoegnison**
 
+[logo]: https://raw.githubusercontent.com/TaktiCool/ArmaAtWar-News/master/data/SitRep001/AAW_Wallpaper.jpg
 
-**WIP**
+[firstScreen]: https://raw.githubusercontent.com/TaktiCool/ArmaAtWar-News/master/data/SitRep001/Profile_Page_Dashboard.png
 
-[logo]: https://lh3.googleusercontent.com/8_8eysTj6WmoHYv3UjQDB18aCFUo6FI3-m-c8JifcBDm3ZeGAvcH33t3uUy0w88cXnbQW-67inXPkwCsckwwFGrPcV6p7MCzfhTu-kh-eCW0mZW28gaLAp1M1s8LBDhoEeK43R-62QPQlNUYbNG_lVytOkyFwOrFFZ03pL1xfABDUwsO0FKp3ar32VXLZ2W5MYVBB1P_xvSsIjIEfIPru7A-NCWGwrM43Eq7CKeK0s9j-LrP7WRWMufyLOUrvS-EnqKLKE-7DWgTk0qQvL_Xx6hRcmWq0QohGPL5fIqdmtuTsDFANjeIvt17Ue84qIU7af4ozhjS9OBjDA6gTKjv4aFUBkxmZBPJlB8llL1g9xzd7XQpliBYrhVFe0je1792GtjpOL7NqJkPfRBBsAfIGDGkooW3CPGf95NShwBEIbQ5aXG7mqqetLgbOu4B7DXZyUtveycPMJp4uWmZJnciq98Q7b9DTRooClnh5GHhDrnCZ2ZSMnypRhCGM6udxNPp6N3Nu6M2QOFm2XZjqZhCFCGNymLnt9GaB5tzUH6DEwHLDd7Bwwdg_8wtKTZteieZk7w3z-2p=w1680-h920
-
-[firstScreen]: https://media.discordapp.net/attachments/173543077821022208/340545518394540032/Profile_Page_Dashboard.png?width=1017&height=573
-
-[secondScreen]: https://media.discordapp.net/attachments/173543077821022208/340545519568945152/Profile_Page_Stats.png?width=1017&height=573
+[secondScreen]: https://raw.githubusercontent.com/TaktiCool/ArmaAtWar-News/master/data/SitRep001/Profile_Page_Stats.png
