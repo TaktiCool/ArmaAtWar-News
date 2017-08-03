@@ -4,8 +4,7 @@
 
 ![logo]
 
-Hello everyone,
-
+Hello everyone,  
 it has been a while since we gave you an update on the development status of AAW. As you all know AAW is a 100% freetime project of our developers and sometimes it is hard to spend the time on the project you would like to spend.
 
 Despite the shortage of time we were still able to make some progress including this new and fance news system, that allows us to keep you informed more regulary :) But let´s get right into it and talk about the things we have planned fore future and the features we are working on.
