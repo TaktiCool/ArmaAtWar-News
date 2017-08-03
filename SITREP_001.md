@@ -1,6 +1,6 @@
 # AAW SITREP #001
 
-> 2017-06-07 by NetFusion
+> 2017-08-03 by Hoegnison
 
 ![logo]
 
@@ -28,6 +28,10 @@ During the last weeks we had a lot of play sessions on a weekly schedule. This w
 
 Another thing we are currently preparing is a competitive AAW event, where professional Arma clans will team up and fight against each other. Currently we are selecting suitable communities and reaching out to them. If you are member of a clan that is interested in competitive PvP warfare make sure to reach out to us. We also think about providing room for freelancers which are not part of any community to serve as a reserve. More informations will be communicated once we are ready.
 The event will be hosted by our development team and we think about providing commentated streams in German and English.
+
+## Forum
+
+Furthermore we are going to shutdown the forum. We have the feeling that at moment there is no need for it and community members tend to use discord instead. Once there is a true need for a forum in terms of structuring community input, we will reactivate it :)
 
 **Hoegnison**
 
